@@ -6,6 +6,11 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
+  "User": {
+    "name": "string",
+    "email": "string",
+    "username": "string"
+  },
   "Comment": {
     "body": "string",
     "post": "Post"
